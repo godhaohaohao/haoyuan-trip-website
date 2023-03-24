@@ -1,0 +1,1 @@
+import{u as o}from"./useScroll-469c5136.js";import{ab as t,q as _,ac as a,ad as r,G as c,aj as f,ag as n,ak as l}from"./index-ba1e3a98.js";const p={__name:"favor",setup(u){const e=_();return o(e),(v,d)=>(a(),r("div",{class:"favor",ref_key:"favorRef",ref:e},[(a(),r(c,null,f(100,s=>n("h2",null,l(s),1)),64))],512))}},g=t(p,[["__scopeId","data-v-7c8820fe"]]);export{g as default};

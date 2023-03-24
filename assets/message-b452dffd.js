@@ -1,0 +1,1 @@
+import{ab as e,ac as s,ad as a,ag as c}from"./index-ba1e3a98.js";const t={},o={class:"message"},n=c("h2",null,"message",-1),_=[n];function r(d,i){return s(),a("div",o,_)}const m=e(t,[["render",r]]);export{m as default};
